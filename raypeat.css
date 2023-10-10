@@ -1,0 +1,156 @@
+A:link {
+    font-family:georgia, times, garamond, ITC garamond, palatino, times new roman, serif;
+    font-weight:bold;
+    color: #11640D;
+    line-height:120%;
+    text-decoration: none
+}
+
+A:visited {
+    font-family:georgia, times, garamond, ITC garamond, palatino, times new roman, serif;
+    font-weight:bold;
+    color: #11640D;
+    line-height:120%;
+    text-decoration: none
+}
+
+A:hover {
+    font-family:georgia, times, garamond, ITC garamond, palatino, times new roman, serif;
+    font-weight:bold;
+    color: black;
+    line-height:120%;
+    text-decoration: underline
+}
+
+.menu A:link {
+    font-family:georgia, garamond, ITC garamond, palatino, times new roman, serif;
+    font-size:18px;
+    font-weight:normal;
+    line-height:120%;
+    color: #11640D;
+    text-transform:uppercase;
+    text-decoration: none
+}
+
+.menu A:visited {
+    font-family:georgia, garamond, ITC garamond, palatino, times new roman, serif;
+    font-size:18px;
+    font-weight:normal;
+    line-height:120%;
+    color: #11640D;
+    text-transform:uppercase;
+    text-decoration: none
+}
+
+.menu A:hover {
+    font-family:georgia, garamond, ITC garamond, palatino, times new roman, serif;
+    font-size:18px;
+    font-weight:normal;
+    line-height:120%;
+    color: black;
+    text-transform:uppercase;
+    text-decoration: underline
+}
+
+span.indexhead {
+    font-family:verdana,arial,helvetica,geneva,sans-serif;
+    color:#728472;
+    font-size:15px;
+    font-weight:bold;
+}
+
+span.index {
+    font-family:georgia, garamond, ITC garamond, palatino, times, times new roman, serif;
+    color:#11640D;
+    font-size:13px;
+    line-height:100%;
+    font-weight:bold;
+}
+span.footer {
+    font-family:georgia, garamond, ITC garamond, palatino, times, times new roman, serif;
+    color:black;
+    font-size:11px;
+    line-height:100%;
+    font-weight:normal;
+}
+
+span.sidemenu {
+    font-family:georgia, garamond, ITC garamond, palatino, times, times new roman, serif;
+    color:#484848;
+    font-size:18px;
+    line-height:130%;
+    font-weight:normal;
+    text-transform:uppercase;
+}
+
+span.title {
+    font-family:georgia, garamond, ITC garamond, palatino, times, times new roman, serif;
+    color:#728472;
+    font-size:20px;
+    font-weight:bold;
+}
+
+span.posted {
+    font-family:georgia, garamond, ITC garamond, palatino, times, times new roman, serif;
+    color:black;
+    line-height:130%;
+    font-size:16px;
+    font-weight:normal;
+}
+
+span.side {
+    font-family:georgia, garamond, ITC garamond, palatino, times new roman, serif;
+    font-size:13px;
+}
+
+.line {
+	padding : 0px;
+}
+
+.mug {
+	position:absolute;
+    top:30px;
+	left:0px;
+	padding:0px;
+}
+
+.mug2 {
+	position:absolute;
+    top:30px;
+	left:240px;
+	width:40px;
+    height:242px;
+	padding:0px;
+}
+
+.rp {
+	position:absolute;
+    top:10px;
+	left:394px;
+	width:500px;
+    height:125px;
+	padding:0px;
+}
+
+.entries {
+	position:absolute;
+    top:10px;
+	left:279px;
+	width:60%;
+	padding:0px;
+}
+
+.sidebar {
+	position:absolute;
+    top:245px;
+	left:20px;
+	width:210px;
+}
+
+DIV.block {
+    text-align:justify
+}
+
+#cse {
+    visibility: hidden;
+}
