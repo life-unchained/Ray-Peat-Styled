@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Ray Peat Styled",
-    "version": "1.0",
-    "description": "Restores original css and js to raypeat.com",
+    "version": "1.0.0",
+    "description": "Restores original css to raypeat.com",
     "icons": {
         "16": "hsray_16.png",
         "128": "hsray_128.png"

@@ -4,7 +4,11 @@ The primary purpose of this extension is to fix a longstanding issue preventing 
 
 Dr. Peat passed more than a year ago, and it's likely his website wasn't looked at for a long while before then, hence the existence of this extension to help out.
 
-If you poke around dev tools, you can see four blocked `http` requests. The first is the stylesheet, `raypeat.css`, which this extension loads. The second, `nav-collapse.js,` is some very old and presumably dysfunctional javascript. The third and fourth are a javascript and css file from Google, `jsapi.js` and `default.css`; the former is accessible but unreadable, the latter 404s. The two javascript files are included in this repository but are unused. I took the liberty of appending a rule to `raypeat.css` to hide the "Loading" text that waits for the blocked JS.
+If you poke around dev tools, you can see four blocked `http` requests. The first is the stylesheet, `raypeat.css`, which this extension loads. The second, `nav-collapse.js,` is some very old and presumably dysfunctional javascript. The third and fourth are a javascript and css file from Google, `jsapi.js` and `default.css`; the former is accessible but unreadable, the latter 404s. The two javascript files are included in the /archived folder of this repository, but are not used in the extension. I took the liberty of appending a rule to `raypeat.css` to hide the "Loading" text that waits for the blocked JS.
+
+## Usage
+
+You can install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/ray-peat-styled/lmmdaaknmobjkebncemnchleoimfjnkp). Or, if you aren't using a chromium-based browser, you can download the latest release and manually add install it.
 
 ## Future
 
